@@ -33,6 +33,3 @@ class Scraper
     end
   end
 end
-
-me = Scraper.new
-me.print_courses
